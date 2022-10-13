@@ -1,5 +1,6 @@
 ## Ne yapar bu yazılım?
 YouTube api ile önce Trendlerde olan videoları çeker.
+
 Ardından ilk 3 videoyu izlenme sayılarıyla ve birinci videonun kapak fotoğrafı ile tweet atar.
 
 # Görseller
