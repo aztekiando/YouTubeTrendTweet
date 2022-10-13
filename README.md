@@ -5,7 +5,11 @@ Ardından ilk 3 videoyu izlenme sayılarıyla ve birinci videonun kapak fotoğra
 # Görseller
 
 Program Görseli;
+
 ![](https://i.hizliresim.com/191awcu.png)
 
+
+
 Tweet Görseli;
+
 ![](https://i.hizliresim.com/ojom3xd.png)
